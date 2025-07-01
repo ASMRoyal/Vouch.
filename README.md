@@ -14,11 +14,11 @@
 
 ---
 
-## 🌟 About VouchBot
+## About VouchBot
 
 VouchBot is a powerful and intuitive Discord bot designed to help communities establish and maintain a reliable vouching system for sellers and service providers. It allows users to leave detailed feedback, rate transactions, and build a transparent reputation for trusted members. With features like customizable profiles, daily leaderboards, and robust moderation tools, VouchBot ensures a fair and secure environment for all.
 
-### ✨ Key Features:
+### Key Features:
 
 * **User Profiles:** Each user gets a customizable profile displaying their vouch history, average rating, and trust level.
 * **Vouch Submission:** Easy-to-use commands and interactive dropdowns for submitting vouches with product, price, rating, and proof.
@@ -32,7 +32,7 @@ VouchBot is a powerful and intuitive Discord bot designed to help communities es
 
 ---
 
-## ⚙️ Commands
+## Commands
 
 VouchBot uses slash commands for easy interaction. Here's a quick overview of the main commands:
 
@@ -62,7 +62,7 @@ VouchBot uses slash commands for easy interaction. Here's a quick overview of th
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! If you have suggestions for new features, bug fixes, or improvements, feel free to:
 
@@ -77,14 +77,14 @@ Please ensure your code adheres to the existing style and includes relevant comm
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 *(Note: You'll need to add a `LICENSE` file to your repository if you haven't already.)*
 
 ---
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or visit our website: [vouchbot.netlify.app](https://vouchbot.netlify.app).
 
