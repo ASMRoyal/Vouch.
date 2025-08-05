@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/tWbLg9Y.png" alt="VouchBot Banner" width="700"/>
+  <img width="1110" height="400" alt="Gemini_Generated_Image_p66ycop66ycop66y-ezgif com-resize(1)" src="https://github.com/user-attachments/assets/3a716a98-e5a8-447c-9848-a9f3d4ee0a71" width="700" />
   <h1>VouchBot: Your Ultimate Discord Vouch System</h1>
   <p>Seamlessly manage seller reputations and build trust within your Discord community.</p>
   <p>
