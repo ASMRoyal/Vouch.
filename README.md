@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or visit our website: [vouchbot.netlify.app](https://vouchbot.netlify.app).
+If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or visit our website: [vouchbot.org](https://vouchbot.org).
 
 ---
 
