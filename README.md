@@ -3,7 +3,7 @@
   <h1>VouchBot: Your Ultimate Discord Vouch System</h1>
   <p>Seamlessly manage seller reputations and build trust within your Discord community.</p>
   <p>
-    <a href="https://vouchbot.netlify.app" target="_blank">
+    <a href="https://vouchbot.org" target="_blank">
       <img src="https://img.shields.io/badge/Website-VouchBot-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="VouchBot Website">
     </a>
     <img src="https://img.shields.io/badge/Discord.py-2.3.2-blue.svg?style=for-the-badge&logo=discord" alt="Discord.py Version">
