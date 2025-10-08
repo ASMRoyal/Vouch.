@@ -4,11 +4,11 @@
   <p>Seamlessly manage seller reputations and build trust within your Discord community.</p>
   <p>
     <img src="https://img.shields.io/discord/1366082447602618440?style=for-the-badge&logo=discord&logoColor=%23ea268e&label=FZ%20ETP&color=%23ea268e&cacheSeconds=3600&link=https%3A%2F%2Fdiscord.gg%2F9hKGaukd2U" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord.py-2.3.2-purple.svg?style=for-the-badge&logo=discord" alt="Discord.py Version">
+    <img src="https://img.shields.io/github/stars/ASMRoyal/Vouch.?style=for-the-badge&color=purple" alt="GitHub Stars">
     <a href="https://vouchbot.org" target="_blank">
       <img src="https://img.shields.io/badge/Website-VouchBot-blueviolet?style=for-the-badge&logo=netlify&logoColor=%23ea268e" alt="VouchBot Website">
     </a>
-    <img src="https://img.shields.io/badge/Discord.py-2.3.2-purple.svg?style=for-the-badge&logo=discord" alt="Discord.py Version">
-    <img src="https://img.shields.io/github/stars/ASMRoyal/Vouch.?style=for-the-badge&color=purple" alt="GitHub Stars">
   </p>
 </div>
 
