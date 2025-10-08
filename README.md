@@ -62,25 +62,9 @@ VouchBot uses slash commands for easy interaction. Here's a quick overview of th
 
 ---
 
-## Contributing
-
-We welcome contributions! If you have suggestions for new features, bug fixes, or improvements, feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
-5.  Push to the branch (`git push origin feature/your-feature`).
-6.  Open a Pull Request.
-
-Please ensure your code adheres to the existing style and includes relevant comments.
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-*(Note: You'll need to add a `LICENSE` file to your repository if you haven't already.)*
 
 ---
 
