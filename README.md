@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+  
+![Discord Bots](https://top.gg/api/widget/1363343068522086431.svg)
+
+</div>
+
+---
+
 ## About VouchBot
 
 VouchBot is a powerful and intuitive Discord bot designed to help communities establish and maintain a reliable vouching system for sellers and service providers. It allows users to leave detailed feedback, rate transactions, and build a transparent reputation for trusted members. With features like customizable profiles, daily leaderboards, and robust moderation tools, VouchBot ensures a fair and secure environment for all.
