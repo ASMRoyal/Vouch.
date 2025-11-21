@@ -9,6 +9,9 @@
     <a href="https://vouchbot.org" target="_blank">
       <img src="https://img.shields.io/badge/Website-VouchBot-blueviolet?style=for-the-badge&logo=netlify&logoColor=%23ea268e" alt="VouchBot Website">
     </a>
+    <a href="https://status.vouchbot.org" target="_blank">
+      <img src="https://img.shields.io/badge/Website-VouchBot-blueviolet?style=for-the-badge&logo=statuspage&logoColor=%23ea268e" alt="VouchBot Website">
+    </a>
   </p>
 </div>
 
