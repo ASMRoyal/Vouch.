@@ -83,6 +83,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or visit our website: [vouchbot.org](https://vouchbot.org).
 
 <img width="832" height="300" alt="Image_p66ycop66ycop66y-ezgif com-resize_1_-removebg-preview" src="https://github.com/user-attachments/assets/82793435-a0ee-4f6d-8c02-61d09757f9c0" />
+
 ---
 
 <div align="center">
